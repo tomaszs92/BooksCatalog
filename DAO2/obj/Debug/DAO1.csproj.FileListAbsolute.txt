@@ -1,0 +1,11 @@
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\DAO1.dll
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\DAO1.pdb
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\Core.dll
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\Interfaces.dll
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\Core.pdb
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\bin\Debug\Interfaces.pdb
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\obj\Debug\DAO1.csprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\obj\Debug\DAO1.csproj.CopyComplete
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\obj\Debug\DAO1.dll
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\obj\Debug\DAO1.pdb
+C:\Users\Tomek\source\repos\TomaszSiuchninskiPW\DAO1\obj\Debug\DAO1.csproj.CoreCompileInputs.cache
